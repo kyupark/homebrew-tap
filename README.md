@@ -6,5 +6,5 @@ Homebrew tap for kyupark formulas.
 
 ```bash
 brew tap kyupark/tap
-brew install webai-cli
+brew install kyupark/tap/webai-cli
 ```
