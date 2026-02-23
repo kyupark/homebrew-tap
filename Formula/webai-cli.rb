@@ -1,8 +1,8 @@
 class WebaiCli < Formula
   desc "Unified CLI for ChatGPT, Claude, Gemini, Grok, and Perplexity"
   homepage "https://github.com/kyupark/webai-cli"
-  url "https://github.com/kyupark/webai-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "9f251463174953d53ee25964c718f82b181b3e3868b5bfca0f0a18ead819b4ac"
+  url "https://github.com/kyupark/webai-cli/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "e9be246789e62c180faa4a240b66130fda04d8a0c6d8cb870b4255efe34fda65"
 
   depends_on "go" => :build
 
