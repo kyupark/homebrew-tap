@@ -1,8 +1,8 @@
 class Ask < Formula
   desc "Unified CLI for ChatGPT, Claude, Gemini, Grok, and Perplexity"
   homepage "https://github.com/kyupark/ask"
-  url "https://github.com/kyupark/ask/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "8293c6b9f125a080e017d7a4b876c465020f0d4f1be5b538be012bd65c9ba302"
+  url "https://github.com/kyupark/ask/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "c2823b021ec1c5dda5ba31f16ff871bb0b1bd7847e189706abee3814b47aded6"
 
   depends_on "go" => :build
 
